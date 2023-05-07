@@ -22,15 +22,16 @@ body{
     background-color: var(--light-gray);
     font-family: var(--Family);
     padding: 18px;
+    max-width: 375px;
+    margin:150px auto;
+    min-height: 100%;
     
 }
 
 .qr-section{
-    
     background-color: var(--white);
     border-radius: 25px;
     padding: 18px;
-    
 }
 
 .qr-title{
@@ -45,7 +46,7 @@ body{
     font-weight: var(--weight-regular);
     font-size: 15px;
     text-align: center;
-    margin: 20px;
+    margin: 17px;
     }
 img{
     display: block;
